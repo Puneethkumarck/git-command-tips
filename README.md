@@ -56,5 +56,5 @@ git push -f origin master
 ### specify author while commiting
 
 ```
-git commit --author 'Puneethkumarck <punith.564@gmail.com>' -am "commit message"
+git commit --author 'username <example.com>' -am "commit message"
 ```
