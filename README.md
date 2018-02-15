@@ -53,3 +53,8 @@ Finally, force update your repository
 
 git push -f origin master
 ```
+### specify author while commiting
+
+```
+git commit --author 'Puneethkumarck <punith.564@gmail.com>' -am "commit message"
+```
