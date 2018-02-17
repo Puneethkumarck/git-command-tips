@@ -58,3 +58,13 @@ git push -f origin master
 ```
 git commit --author 'username <example.com>' -am "commit message"
 ```
+
+### adding files to stage for commit
+
+```
+git add -A stages All
+
+git add . stages new and modified, without deleted
+
+git add -u stages modified and deleted, without new
+```
