@@ -68,3 +68,18 @@ git add . stages new and modified, without deleted
 
 git add -u stages modified and deleted, without new
 ```
+
+### Undo Commit and untrack the file
+```
+undo the latest commit
+git reset --soft HEAD^1
+
+remove file from staging area
+git rm --cached <file-name>
+
+```
+
+
+```
+
+
