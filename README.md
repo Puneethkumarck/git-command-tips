@@ -78,8 +78,11 @@ remove file from staging area
 git rm --cached <file-name>
 
 ```
+### Using multiple git accounts
+## local config
+ + git config user.name "**************"
+ 
+ + git config user.email "*************" 
 
-
-```
 
 
